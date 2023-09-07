@@ -1,3 +1,4 @@
+# THINGS INTRODUCED:
 # Print statement
 # Input statement
 # split statement
